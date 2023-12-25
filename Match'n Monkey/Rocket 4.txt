@@ -1,0 +1,12 @@
+
+
+                [[red]]                                                                                            ((   ))
+                [[red]]                                                                                           ((  :  ))
+                [[yellow]]                                                                                           ((  :  ))
+                [[yellow]]                                                                                            ((   ))
+                [[yellow]]                                                                                             (( ))
+                [[yellow]]                                                                                              ( )
+                [[yellow]]                                                                                               .
+                [[yellow]]                                                                                               .
+                [[yellow]]                                                                                               .
+                [[red]]                                                                                               .
